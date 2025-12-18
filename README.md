@@ -2,7 +2,10 @@
 As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
 
 # Tech Stack :
-HTML5 CSS3 JavaScript
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/8ed21548-caad-4c9c-b56a-a0b3cafca2dc" />
+ <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/272b8302-afca-4700-b671-f8dd251cd770" />
+ <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/eb63bdef-14ff-4f21-b290-643a7f0d4633" />
+
 
 # Features :
 Play/Pause: Allows the user to start or pause the playback of the currently selected track.
